@@ -1,2 +1,3 @@
 # electron-browser-view-tabs
-Simple, blazing fast, BrowserView based tabs for electron
+Simple, blazing fast, <browserview> based tabs for electron
+
